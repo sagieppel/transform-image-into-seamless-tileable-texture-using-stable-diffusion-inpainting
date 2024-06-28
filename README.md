@@ -17,7 +17,7 @@ This is taking the boundaries of the image and changing them so that opposite si
 # setting
 install stable diffusion:
 [https://github.com/Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
-
+Requirements: run much faster on GPU (not sure if it run on CPU)
  
 # run on image
 in:  make_image_seamless.py
