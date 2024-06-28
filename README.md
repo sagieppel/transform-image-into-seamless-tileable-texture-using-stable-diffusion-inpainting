@@ -28,15 +28,23 @@ make_image_seamless.py
 set parameters:
 
 input_image_path =  path input image to be converted
+
 output_image_path =  path to output converted image
+
 output_grid_image_path =  path output converted image tiled as grid
  
 # more parameters
+
  prompt =   text prompt describing the blending area
+ 
  strength =  how much the image will change at boundaries
+ 
  guidance_scale =  how much the prompt will affect the image
+ 
  impact =  how much will the change affect the image (weighted average between input and output
+ 
  width =  width in pixels of boundary region that will be changed
+ 
  steps =   number of diffusion step
 
 
