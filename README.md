@@ -16,13 +16,11 @@ This is taking the boundaries of the image and changing them so that opposite si
 
 # setting
 install stable diffusion:
-
+[https://github.com/Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 
  
 # run on image
-in:  
-
-make_image_seamless.py
+in:  make_image_seamless.py
 
 
 set parameters:
