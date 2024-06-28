@@ -6,12 +6,12 @@ Turn a texture image, such that it can be tiled seamlessly into uniform texture.
 This is taking the boundaries of the image and changing them so that opposite sides of the image will merge seamlessly, this is done by using the image topography to create stitching lines that follow the image's native patterns and as such much less conscious and harder to detect.
 
 
-## original image. 
-![](sa_266035_15_Score_5229_TileSize39_Texture.jpg)
+## original image tiled. 
+![](grid_original.jpg)
 
 
-##  converted image.
-![](sa_266472_5_Score_5119_TileSize39_Texture.jpg)
+##  converted image tiled.
+![](converted_grid_image.jpg)
  
 
 # setting
